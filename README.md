@@ -1,6 +1,6 @@
 # House-Prices-Advanced-Regression-Techniques-Machine-Learning
 
-First steps with Machine Learning
+Kaggle competition
 
 From the Kaggle competition: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
